@@ -1,0 +1,3 @@
+[submodule "lfstest2"]
+	path = lfstest2
+	url = https://github.com/marius851000/lfstest2.git
